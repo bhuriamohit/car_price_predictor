@@ -3,6 +3,7 @@
 Project link: https://car-price-price.herokuapp.com
 
 
+![demo](https://github.com/bhuriamohit/car_price_predictor/assets/96821555/9d0a72eb-b840-4fce-848d-5f653f74dfb3)
 
 
 # Aim
