@@ -6,6 +6,10 @@ Project link: https://car-price-price.herokuapp.com
 ![demo](https://github.com/bhuriamohit/car_price_predictor/assets/96821555/9d0a72eb-b840-4fce-848d-5f653f74dfb3)
 
 
+
+
+https://github.com/bhuriamohit/car_price_predictor/assets/96821555/66e967f0-bfd6-41e0-8751-fd5e9db22726
+
 # Aim
 
 This project aims to predict the Price of an used Car by taking it's Company name, it's Model name, Year of Purchase, and other parameters.
